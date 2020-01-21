@@ -1,0 +1,11 @@
+what is react?
+    javascript library
+    used to show html content to users
+
+JSX
+    javascripty html
+
+React vs ReactDOM
+    react knows about components
+    reactdom makes components show up in the DOM
+
