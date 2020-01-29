@@ -9,3 +9,21 @@ React vs ReactDOM
     react knows about components
     reactdom makes components show up in the DOM
 
+Babel
+    converts to browser understandable code
+
+JSX vs html 
+    jsx -> className not class b/c react has class
+    jsx -> references js variables easily 
+
+
+3 React component tenants
+    nesting
+    reusability
+    configuration
+
+Faker
+    nice way to fake images and other fake data in react project
+
+Free to use cSS
+    https://semantic-ui.com/views/card.html#cards
